@@ -1,0 +1,57 @@
+/* GERAL */
+body {
+    margin-top: 20px;
+        font-family: 'Lato', Arial, Helvetica, sans-serif;
+    color: purple;
+}
+
+.texto-topo {
+    padding: 0;
+}
+
+.conteudo {
+    text-align: center;
+}
+
+p {
+    font-weight: 80px;
+}
+
+.btn {
+    width: 300px;
+    padding: 20px;
+    margin: 15px auto;
+    text-decoration: none;
+    text-align: center;
+}
+
+.btn-roxo {
+    display: block;
+    color: white;
+    background: purple;
+}
+
+.btn-transparente {
+    border: 1px solid purple;
+    display: block;
+    color: purple;
+}
+
+.texto-topo {
+    text-align: center;
+}
+
+.esquerdo {
+    display: inline-block;
+}
+
+.direito {
+    text-align: left;
+    margin-left: 80px;
+    vertical-align: 300px;
+    display: inline-block;
+}
+
+li {
+    padding: 2px;
+}
